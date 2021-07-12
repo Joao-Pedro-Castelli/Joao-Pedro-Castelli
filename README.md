@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joao Pedro Castelli
+- 👋 Hi, I’m Joao Pedro Castelli
 - 👀 I’m interested in coding and games
 - 🌱 I’m currently learning the basics of Javascript
 - 📫 How to reach me $this->joaogithub@gmail.com() ;
