@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joao Pedro Castelli
 - 👀 I’m interested in coding and games
-- 🌱 I’m currently learning the basics of Javascript
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me $this->joaogithub@gmail.com() ;
 
 <!---
